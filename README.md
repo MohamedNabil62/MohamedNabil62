@@ -1,5 +1,4 @@
-[![MasterHead](https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2020/10/flutter-app-developer.jpg)]
-
+<img align="center" alt="Coder GIF" height=315 width=1000 src="https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2020/10/flutter-app-developer.jpg" />
 <h1 align="center">Hi 👋, I'm Mohamed Nabil</h1>
 <h3 align="center">Flutter Developer from Egypt</h3>
 
